@@ -18,6 +18,14 @@ nav {
     margin-top: 50px;
 }
 
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
 .recipe {
     display: inline-block;
     background: lightgray;
